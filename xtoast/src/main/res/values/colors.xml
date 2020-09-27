@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Toast-->
+    <color name="toast_default_text_color">@android:color/white</color>
+    <color name="toast_error_color">@android:color/holo_red_light</color>
+    <color name="toast_info_color">#3F51B5</color>
+    <color name="toast_success_color">#388E3C</color>
+    <color name="toast_warning_color">@android:color/holo_orange_light</color>
+    <color name="toast_normal_tint_color">#353A3E</color>
+</resources>
